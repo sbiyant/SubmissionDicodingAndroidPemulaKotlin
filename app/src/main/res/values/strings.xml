@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Submission</string>
+    <string name="football_club_name">Premiere League Football Club</string>
+    <string name="detail">Detail</string>
+    <string name="about_me">About me</string>
+    <string name="email">Email</string>
+    <string name="my_name">Agus Subiyanto</string>
+    <string name="my_email"> Email: mamas.biyan@gmail.com</string>
+    <string name="club_detail">Informasi tentang club</string>
+    <string name="username">Username: Slepthryne</string>
+</resources>
